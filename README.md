@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CANAKIL&color=7C3138&style=flat-square)
 
-My name is **[Can]**, known as 🐸 **[N1X]** everywhere, and I'm a full-stack web developer from Turkey, EU.
+My name is **Can**, known as 🐸 **N1X** everywhere, and I'm a full-stack web developer from Turkey, EU.
 
 <p align="center">
    <a href="https://discord.com/users/428241515727552522" target="_blank" rel="nofollow">
