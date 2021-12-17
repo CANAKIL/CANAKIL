@@ -20,8 +20,8 @@ My name is **[Can]**, known as 🐸 **[N1X]** everywhere, and I'm a full-stack w
 </p>
 
 <p align="center">
-   <a href="https://discord.com/users/912039067871490139" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/912039067871490139?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+   <a href="https://discord.com/users/428241515727552522" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/428241515727552522?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
 </p>
 
