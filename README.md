@@ -32,7 +32,7 @@ My name is **Can**, known as 🐸 **N1X** everywhere, and I'm a full-stack web d
    * 💼 **I'm working on:**
       * [Victim Project:V] - a turkish [ALT:V] (multiplayer client for GTA:V) server
 
-   * 🎓 **Learning** - tons of things about electron!
+   * 🎓 **Learning** - tons of things about cryptocurrencies and blockchain development!
    * 😄 **Fun fact** - It’s all 0’s and 1’s
 
 ---
