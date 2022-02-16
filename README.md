@@ -41,7 +41,7 @@ My name is **Can**, known as 🐸 **N1X** everywhere, and I'm a full-stack web d
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Node.js, Express.js
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS, Tailwind CSS
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS, React JS, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **Datastores** - MongoDB
    * **Tools** - Github, VS Code, NeoVim
