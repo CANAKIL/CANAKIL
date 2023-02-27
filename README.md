@@ -32,7 +32,7 @@ My name is **Can**, known as 🐸 **N1X** everywhere, and I'm a backend develope
    * 💼 **I'm working on:**
       * [Victim Project:V] - a turkish [ALT:V] (multiplayer client for GTA:V) server
 
-   * 🎓 **Learning** - tons of things about game development!
+   * 🎓 **Learning** - tons of things about Windows API!
    * 😄 **Fun fact** - It’s all 0’s and 1’s
 
 ---
