@@ -30,9 +30,9 @@ My name is **Can**, known as 🐸 **N1X** everywhere, and I'm a backend develope
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [Victim Project:V] - a turkish [ALT:V] (multiplayer client for GTA:V) server
+      * Mobile games at [Gamina Technology]
 
-   * 🎓 **Learning** - tons of things about Windows API!
+   * 🎓 **Learning** - tons of things about Unity!
    * 😄 **Fun fact** - It’s all 0’s and 1’s
 
 ---
