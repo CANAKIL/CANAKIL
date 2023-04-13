@@ -30,9 +30,9 @@ My name is **Can**, known as 🐸 **N1X** everywhere, and I'm a backend develope
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * Mobile games at [Gamina Technology](https://gaminatechnology.com)
+      * Developing projects to improve my programming skills!
 
-   * 🎓 **Learning** - tons of things about Unity!
+   * 🎓 **Learning** - tons of things about Web Development!
    * 😄 **Fun fact** - It’s all 0’s and 1’s
 
 ---
